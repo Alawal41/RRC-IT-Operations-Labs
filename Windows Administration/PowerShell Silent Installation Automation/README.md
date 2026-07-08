@@ -1,0 +1,1 @@
+This project demonstrates the use of PowerShell scripting to automate the silent installation of multiple applications on Windows systems. The script downloads required installers, performs unattended installations, and reduces manual configuration time. The project highlights basic scripting, automation, and endpoint deployment techniques.
