@@ -1,0 +1,1 @@
+This project documents the installation and configuration of Windows Server 2022 as an Active Directory Domain Controller in a virtualized environment. It includes server deployment, Active Directory Domain Services installation, domain creation, and basic administrative configuration for a lab environment.
