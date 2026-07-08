@@ -1,0 +1,1 @@
+This project presents the design and prototype of a trip planning service that helps families explore Manitoba in a more affordable and accessible way. It outlines the planning process, user research, design decisions, and proposed features, including personalized trip recommendations, budget-friendly itineraries, and local attraction discovery.
